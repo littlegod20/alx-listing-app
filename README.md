@@ -1,5 +1,5 @@
 
-```markdown
+
 # 🏠 ALX Listing App
 
 ## 📖 Project Overview
@@ -7,7 +7,6 @@ The **ALX Listing App** is a modern web application inspired by Airbnb’s listi
 Its primary goal is to allow users to explore, view, and manage property listings in a visually appealing and user-friendly way.  
 Built with **Next.js**, **TypeScript**, and **Tailwind CSS**, it emphasizes scalability, component reusability, and clean UI design.
 
----
 
 ## 🧱 Project Structure
 
@@ -23,9 +22,8 @@ alx-listing-app/
 ├── styles/           # Global styles or Tailwind configuration files
 └── README.md         # Project documentation
 
-````
+```
 
----
 
 ## ⚙️ Getting Started
 
